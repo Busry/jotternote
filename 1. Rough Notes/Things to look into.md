@@ -41,3 +41,10 @@ Early booking hx of blood group sensitive event, iso-immunization in previous pr
 - [ ] until 38 wks dexa still has a role for fetal lung and help with iatrogenic prematurity when mother is unsure of LMP.
 - [ ] 
 
+CTG
+- [ ] Repeat CTG if suspicious then commence 
+- [ ] classify uterine rupture
+- [ ] classify scar disruptions into rupture and dehiscence.
+- [ ] 
+
+
