@@ -41,7 +41,7 @@ Estimated  585,000 women die each from pregnancy related  causes
 	- ‌incorrect treatment 
 	- ‌incessant industrial action.
 
-## Delays contributing to maternal mortality 
+## Delays contributing to maternal mortality (Deborah Maine)
  1° delay (delay in decision taken)
 	- ‌ ignorant
 	- ‌ cultural /religion beliefs/barriers 
@@ -69,4 +69,4 @@ Estimated  585,000 women die each from pregnancy related  causes
 	- ‌ family planning 
 	- ‌antenatal care 
 	- ‌clean labor and delivery 
-	- ‌essential obstetric care
+	- ‌[[Essential obstetric care]]
