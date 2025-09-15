@@ -45,6 +45,18 @@ CTG
 - [ ] Repeat CTG if suspicious then commence 
 - [ ] classify uterine rupture
 - [ ] classify scar disruptions into rupture and dehiscence.
+## 15/09/25
+- [ ] what are the problems of second stage of labour
+- [ ] classify anaemia
+- [ ] note it is also classify base on trimester, kinetic, cause, morphology, severity, 
+- [ ] hyperthyroidism in pregnancy. Medication
+- [ ] urethral prolapse in 5years old girl managed with estrogen cream
+- [ ] Risk factors for anemia in pregnancy 
+**Anyaka concerns**
+- [ ] TTTT and other complications of twin
+- [ ] Reason for conjoined twin
+- [ ] Type of conjoin twin
+- [ ] intersex or DSD
+- [ ] Hemodynamic changes in pregnancy 
 - [ ] 
-
-
+- [ ] 

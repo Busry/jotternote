@@ -67,6 +67,6 @@ Estimated  585,000 women die each from pregnancy related  causes
 	Ensuring all women receive the care they need to be safe and healthy during pregnancy and childbirth 
 **Pillars(4)**
 	- ‌ family planning 
-	- ‌antenatal care 
+	- ‌[[Antenatal Care]]
 	- ‌clean labor and delivery 
 	- ‌[[Essential obstetric care]]
