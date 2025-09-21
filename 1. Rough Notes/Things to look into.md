@@ -58,5 +58,19 @@ CTG
 - [ ] Type of conjoin twin
 - [ ] intersex or DSD
 - [ ] Hemodynamic changes in pregnancy 
-- [ ] 
-- [ ] 
+
+## 16/09/25
+* [ ] Risk factors for ovarian ca.
+* [ ] How to resuscitate eclampsia 
+* [ ] principle of management of eclampsia 
+* [ ] 50% of malaria in pregnancy causes preterm contractions 
+
+## 19/09/25
+* [ ] Sokoto similar to zuspan 
+* [ ] causes of IUFD **maternal** Dm HTN, infection , aneamoa, fetal chr, MG , Torches,  and placental abruptio, previa, cord accident,
+* [ ] prediction of preeclampsia, clinical, biochemical, Tk1, soluble endogein, placental growth factor, Inc sensitivity to , PAGFradiolo early diagnosis, obtalmic artery Doppler a normality 
+* [ ] clinical test to do Hand grip test, roll over test, ice cold test
+* [ ] 
+
+
+
