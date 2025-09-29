@@ -3,7 +3,7 @@
 - [ ] **Fructosamine test** is done instead of glycated Hb test in SCA for D.M
 - [ ] SCA RBC half life is 17 days while Normal RBC is 120 days
 - [ ] What are the effects of SCA on pregnancy( please classify )
-- [ ] ANC investigations( pcv, genotype, )
+- [ ] ANC investigations (pcv, genotype)
 
 ## 9/9/25
 ### Ward patient 
@@ -70,7 +70,14 @@ CTG
 * [ ] causes of IUFD **maternal** Dm HTN, infection , aneamoa, fetal chr, MG , Torches,  and placental abruptio, previa, cord accident,
 * [ ] prediction of preeclampsia, clinical, biochemical, Tk1, soluble endogein, placental growth factor, Inc sensitivity to , PAGFradiolo early diagnosis, obtalmic artery Doppler a normality 
 * [ ] clinical test to do Hand grip test, roll over test, ice cold test
-* [ ] 
+## 25/09/25
+* [ ] what is the clinical features of DOPP: back pain ,Rom, flat peri umbilical flattened, SFH more ,ant. Frontanel, 
+* [ ] step by step forceps delivery.8 requirement.
+* [ ] how do I you know forceps is correctly apply. Lock easily,
+* [ ] patient was handed over as PROM, with Lower uterine mass, I discussed with SR Dr Ameh on need to rescan and next one of management. Plan was to allow her to go into labour after 24 hours then next plan after which the decision was to commence misoprostol.
+
+
+
 
 
 
