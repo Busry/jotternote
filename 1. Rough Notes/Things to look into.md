@@ -75,6 +75,10 @@ CTG
 * [ ] step by step forceps delivery.8 requirement.
 * [ ] how do I you know forceps is correctly apply. Lock easily,
 * [ ] patient was handed over as PROM, with Lower uterine mass, I discussed with SR Dr Ameh on need to rescan and next one of management. Plan was to allow her to go into labour after 24 hours then next plan after which the decision was to commence misoprostol.
+## 2/10/25
+* [ ] what is the MOA of MgSO4 and labetalol
+* [ ] weatherman syndrome with omphaocele with hypoglycemia.
+* [ ] 
 
 
 
