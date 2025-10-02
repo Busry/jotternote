@@ -14,8 +14,7 @@ Accurate classification aids in determining the urgency of delivery, optimizing 
 ## Incidence
 **Rate of cs in **
  1. JUTH 33.1%.
- 2. Nigeria 
- 3. US 22 %
+ 2. US 22 %
 
 ## Classification
 Base on: 
