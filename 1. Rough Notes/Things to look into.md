@@ -78,7 +78,38 @@ CTG
 ## 2/10/25
 * [ ] what is the MOA of MgSO4 and labetalol
 * [ ] weatherman syndrome with omphaocele with hypoglycemia.
+## 3/10/25
+* [ ] initiative to prevent perinatal mortality in preterm. Are:- WHO pri primi5 initiative 
+*  corticosteroid, 
+* MgSO4, 
+* delay cord clamping, 
+* kangaroos care , 
+* exclusive breastfeeding.
+* [ ] when to commence breastfeeding,
+* [ ] problems of primi
+* [ ] postpartum care WHO
+* 24hours, 
+* 72hours, 
+* 1-2wks, 
+* Then 6wks
+* [ ] complications of **teenage** pregnancy 
+* stigma
+* Drop out of school
+* Poor ANC
+* Poor nutrition 
+* [ ] components of post-abortal care
+* Resuscitation,
+* Family planning 
+* 
+* [ ] Define unsafe abortion 
+* [ ] Laws guiding Abortion in Nigeria
+* [ ] Breaking Bad news with a woman with
+## 5/10/25
+* [ ] causes of death in Ca. CX
+* [ ] what is preconceptions care
+* [ ] how is preconceptions care offer to a SCA patient 
 * [ ] 
+
 
 
 
