@@ -108,7 +108,34 @@ CTG
 * [ ] causes of death in Ca. CX
 * [ ] what is preconceptions care
 * [ ] how is preconceptions care offer to a SCA patient 
-* [ ] 
+## 7/10/25
+* [ ] abruptio placenta
+* [ ] effect of fibroids on pregnancy
+* [ ] sling operation 
+* MMK
+* Mid slings 
+* Mini slings
+* Autologous fascia sling
+- Vaginal tape 
+- retropubic sling 
+- trans obturator 
+
+* [ ] extent of the anomaly 
+* [ ] explain the result
+* [ ] Mgt option
+*  continue the pregnancy with Corrective surgery to be done after delivery (in utero or extra uterine)
+* TOP
+## call reader 
+* [ ] maternal mortality 
+* [ ] how would you prevent mM
+* [ ] misisipi 123 and Memphis classification of Hellp syndrome 
+* [ ] PPH and aki and severe pre eclampsia 
+* [ ] Ino ICU, mtoc, investigation 
+Ward round
+* [ ] induction of labour
+* [ ] pathophysiology of ascitis in ovarian Cancer.
+* [ ] PROM
+
 
 
 

@@ -1,5 +1,5 @@
 # Definition 
-Placenta implementation into the LUS.
+Placenta that is wholly or partially implemented in the LUS.
 ## Classification 
 
 | Type |                                     definition                                      |
