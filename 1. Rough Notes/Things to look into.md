@@ -125,7 +125,7 @@ CTG
 * [ ] Mgt option
 *  continue the pregnancy with Corrective surgery to be done after delivery (in utero or extra uterine)
 * TOP
-### call reader 
+## call reader 
 * [ ] maternal mortality 
 * [ ] how would you prevent mM
 * [ ] misisipi 123 and Memphis classification of Hellp syndrome 
@@ -136,13 +136,6 @@ Ward round
 * [ ] pathophysiology of ascitis in ovarian Cancer.
 * [ ] PROM
 
-## 10/10/25
-### M.mettings
-- Define hydrops fetalis
-- type of hydrops fetalis( immune and non-immune )
-- Torches syndrome specific morbidity.
-- we hardly take scd patient to term (max 36wks) and avoid them having high parity.
-- 
 
 
 
