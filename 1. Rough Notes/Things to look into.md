@@ -135,8 +135,19 @@ Ward round
 * [ ] induction of labour
 * [ ] pathophysiology of ascitis in ovarian Cancer.
 * [ ] PROM
-
-
+## 14/10/25
+- Causes of polyhydramnious(Classify into maternal and fetal)
+- assessment of amniotic fluid can be subjective or objective 
+- kanet test fetal neurology disorder in utero.
+- why was she just presenting on the day of admission
+## 17/10/25
+- pulmonary embolism diagnosis
+-ECG, 
+-ABG, 
+-CT- Pulmonaey Angioraphy (CTPA), 
+-D-Dimer, vent perfusion
+- Diagnosis of ACS
+- 
 
 
 
