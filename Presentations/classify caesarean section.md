@@ -57,7 +57,7 @@ Base on:
 2. Fetal
 	1. fetal distress in 1st stage of labour
 	2. T2 malpresentation
-	3. fetal macrosomiat
+	3. fetal macrosomia
 	4. very low birth weight 
 	5. fetal abnormality
 	6. cord prolapse with live fetus
