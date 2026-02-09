@@ -147,6 +147,13 @@ Ward round
 -CT- Pulmonaey Angioraphy (CTPA), 
 -D-Dimer, vent perfusion
 - Diagnosis of ACS
+# 21/10/25
+- preconception care for SCA
+# 31/10/25
+- preconception care for SCA
+- counsel patient : effect of pregnancy. On SCA and vice versa.SES using some tools. 
+  ## Doza presentation 
+- 
 - 
 
 
