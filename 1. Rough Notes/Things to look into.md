@@ -128,7 +128,7 @@ CTG
 ## call reader 
 * [ ] maternal mortality 
 * [ ] how would you prevent mM
-* [ ] misisipi 123 and Memphis classification of Hellp syndrome 
+* [ ] MISSISSIPPI  TRIPLE CLASSIFICATION 1,2,3 and TENNESSEE classification of Hellp syndrome 
 * [ ] PPH and aki and severe pre eclampsia 
 * [ ] Ino ICU, mtoc, investigation 
 Ward round
