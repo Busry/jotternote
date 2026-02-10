@@ -155,6 +155,16 @@ Ward round
   ## Doza presentation 
 - 
 - 
+# 09/02/26
+3rd stage of labour
+- define it 
+- types of separation
+Definition of prolonged latent phase of labor.
+Precipitate labor
+- Definition
+- Risk factors 
+
+
 
 
 
