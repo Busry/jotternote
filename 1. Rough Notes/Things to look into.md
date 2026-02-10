@@ -128,15 +128,33 @@ CTG
 ## call reader 
 * [ ] maternal mortality 
 * [ ] how would you prevent mM
-* [ ] MISSISSIPPI  TRIPLE CLASSIFICATION 1,2,3 and TENNESSEE classification of Hellp syndrome 
+* [ ] misisipi 123 and Memphis classification of Hellp syndrome 
 * [ ] PPH and aki and severe pre eclampsia 
 * [ ] Ino ICU, mtoc, investigation 
 Ward round
 * [ ] induction of labour
 * [ ] pathophysiology of ascitis in ovarian Cancer.
 * [ ] PROM
-
-
+## 14/10/25
+- Causes of polyhydramnious(Classify into maternal and fetal)
+- assessment of amniotic fluid can be subjective or objective 
+- kanet test fetal neurology disorder in utero.
+- why was she just presenting on the day of admission
+## 17/10/25
+- pulmonary embolism diagnosis
+-ECG, 
+-ABG, 
+-CT- Pulmonaey Angioraphy (CTPA), 
+-D-Dimer, vent perfusion
+- Diagnosis of ACS
+# 21/10/25
+- preconception care for SCA
+# 31/10/25
+- preconception care for SCA
+- counsel patient : effect of pregnancy. On SCA and vice versa.SES using some tools. 
+  ## Doza presentation 
+- 
+- 
 
 
 
