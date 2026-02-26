@@ -42,7 +42,6 @@
 - Sciatalgia
 
 **Examination**
-___ 
 - Pain trigger point
 - Tender nodular masses along uterosacral ligament
 	- Adnexa mass
@@ -87,9 +86,10 @@ ___
 	- Deep (DIE)
 
 **Treatment**
-- Analgesia and NSAIDs
-- Hormonal therapy (COCP, progestogens, GnRH analogues Visanne, Ryeqo, Mirena. Qlaira).
-- Aromatase inhibitor
+- Medical
+	- Analgesia and NSAIDs
+	- Hormonal therapy (COCP, progestogens, GnRH analogues Visanne, Ryeqo, Mirena. Qlaira).
+	- Aromatase inhibitor
 - Fertility preservation considerations
 - Surgical excision for refractory cases- laparoscopic and Robotic.
 	- Hysterectomy
