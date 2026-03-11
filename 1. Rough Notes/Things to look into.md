@@ -182,7 +182,10 @@ Cervical ripening step by step
 # 16/02/26
 - Obst shock index.
 - Prevent puerperal sepsis hand washing Igna sanalbed For hand washing
-- 
+-
+# 17/02/26
+Centinel bleed(warning bleeds)
+Reaction hyperplacentosis
 
 
 
