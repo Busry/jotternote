@@ -163,8 +163,29 @@ Definition of prolonged latent phase of labor.
 Precipitate labor
 - Definition
 - Risk factors 
-
-
+# 10/02/26
+Step by step how to give episiotomy 
+Option of care of episiotomy 
+SCA : 
+ - chromosomes 11p15.5, 
+-  B-globulin146 Amino acid at position 6 valine takes the position of glutamic acid.
+- What is the congenital anomalies does hydroxyurea predisposes to.
+- after 20 unit of blood measure the serum iron and if above 1000 give iron chelators.
+- what is pickle triad
+- pethidine reduces the threshold for seizure
+- 
+# 11/02/26
+Jadel step by step
+Genetic counseling 
+Endometriosis 
+Cervical ripening step by step
+# 16/02/26
+- Obst shock index.
+- Prevent puerperal sepsis hand washing Igna sanalbed For hand washing
+-
+# 17/02/26
+Centinel bleed(warning bleeds)
+Reaction hyperplacentosis
 
 
 
