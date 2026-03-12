@@ -1,4 +1,26 @@
-Team AB SRWR
+# CWR summary
+
+A 35y/o P8+0 (7A) LCB 18 months ago and LNMP 27months ago. 
+She had Vaginal hysterectomy with pelvic floor repair 3days ago  **o/a** of 3rd degree cystocele and 2nd degree UV-prolapse in a pt that has completed family size, 
+The intraoperative findings are :- 
+- Normal vulval
+- Normal external urethral meatus
+- 3rd degree cystocele 
+- 2nd degree UV prolapse
+- Healthy looking cervix
+- Atrophic uterus and ovaries
+- EBL - minimal
+She has commenced oral feeding and is currently ambulating.
+Stable with no complaint today
+
+
+
+
+
+
+
+# Team AB 
+SRWR
 
 POD 2
 

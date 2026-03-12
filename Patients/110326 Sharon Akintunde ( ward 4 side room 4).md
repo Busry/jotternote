@@ -1,3 +1,20 @@
+# CWR Summary
+
+She is a 30year old now P2+1 (4A) who had ELLSCS 3 days ago for 
+ triplet gestation in a rhesus negative mother and cervical Cerclage in situ with the following intra-operative findings 
+- Gravid uterus in dextro-rotation with well-formed LUS
+- T1:  A LMN in Breech presentation with BW of 1.9kg and APGAR scores of 9 and 9 in 1st and 5th minutes
+- T2:  A LMN in Breech presentation with BW of 2.2kg and APGAR scores of 9 and 9 in 1st and 5th minutes
+- T3:  A LMN in Breech presentation with BW of 1.65kg and APGAR scores of 9 and 9 in 1st and 5th minutes
+- Fundaly sited placenta
+- Grossly normally looking tubes, and ovaries
+- EBL- 450ml
+Babies are in SCBU and doing well.
+She has commenced oral feeding, ambulating and is stable with no complaint.
+
+
+
+# Raw Hx
 Team AB SRWR
 
 POD 2

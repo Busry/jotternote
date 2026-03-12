@@ -1,82 +1,36 @@
-Nursing
-    GOPD
-list
-MOPD Waiting List
-list
-SOPD Waiting List
-list
-Pediatrics
-list
-Gynaecology
-list
-Obstetrics
-    Antenatal
-    Eye Clinic
-    E.N.T.
-    Dentistry
-    Theater
-transform
-Procedure
-transform
-Custom Service
-hotel
-Admission
-In Patient
+# CWR Summary
 
-Janet Joro
-Apr 24, 1985
-41 years
+
+
+
+
+
+
+
+Team AB SRWR
+
+A 40 year P3+2,3A Jehovah witness patient who presented 5weeks ago as a referral from federal university teaching hospital managed for anemia and DVT secondary to huge uterine fibroids.
+She's also being co-managed with the hematologist and cardiologist .
+She is presently on
+- Zoladex
+- Iron dextran
+- Tranexemic acid
+- Tabs varexa and ACT
+
+PV bleeding stopped about a week ago .
+she has had DVT of right lower leg however pain is subsiding.
+
+Pt refuses blood transfusion despite being counseled on blood transfusion.
+Her latest PCV -23%
+She’s being tentatively being scheduled for myomectomy
+
+
+
+
+
+# Notes
 Hospital No: SMQ-JUTH-100771
-Status: Alive
-Email:
-Phone: 07039357745
-Address: Federal university teaching hosp. wukari
-Occupation:
-Sex: Female
-Genotype:
-Blood Group:
-HMO: Ultimate Health management Services Limited (61) - NHIS
-HMO Code: 331477535
-Department: N/A
-Allergies
-Weight: kg
-Height: m
-Temperature: °C
-Blood Pressure: mmHg
 
-Visual Acuity(Right): N/A
-Infant Weight:
-Consultant: N/A
-Pulse: BPM
-BMI: kg/m 2
-Resp: BPM
-HC: cm
-SP02: %
-normal
-
-Visual Acuity(Left): N/A
-Remark:
-Police Officer Name:
-Police Officer Number:
-Admission Activities
-Summary of Report
-Fluid Bal
-Ward Round
-Patient Condition
-Nursing Hx
-Care Plan
-Glucose Chart
-Observation Chart
-Treatment Chart
-Daily Report
-Drugs
-Discharge Summary
-Ward Round
-Ward Round
-Initial
-Follow Up
-Medical History
-Consultation Record
 Mar 11, 2026, 8:12:07 PM
 Previous Ward Round Note
 Presenting Complaint
