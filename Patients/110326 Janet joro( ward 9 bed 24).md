@@ -1,32 +1,23 @@
 # CWR Summary
+A 40 year P3+2,(3A) admitted 5 weeks ago with complain of 
+- Abdominal pain x2 years
+- Abdominal swelling x2 years
+- Heavy menstruation 1/7
 
+She a JW referred from FUTH wukari 
+Managed for anemia and DVT secondary to huge uterine fibroids.
 
+Latest PCV 23% 9/3/26
+Leg swelling subsiding and 
+PV bleeding stopped.
 
-
-
-
-
-
-Team AB SRWR
-
-A 40 year P3+2,3A Jehovah witness patient who presented 5weeks ago as a referral from federal university teaching hospital managed for anemia and DVT secondary to huge uterine fibroids.
-She's also being co-managed with the hematologist and cardiologist .
+Co-managed with the hematologist and cardiologist .
 She is presently on
 - Zoladex
 - Iron dextran
 - Tranexemic acid
 - Tabs varexa and ACT
-
-PV bleeding stopped about a week ago .
-she has had DVT of right lower leg however pain is subsiding.
-
-Pt refuses blood transfusion despite being counseled on blood transfusion.
-Her latest PCV -23%
-She’s being tentatively being scheduled for myomectomy
-
-
-
-
+She is is being scheduled for myomectomy for monday.
 
 # Notes
 Hospital No: SMQ-JUTH-100771
