@@ -57,3 +57,23 @@
 ## References
 - WHO. Labour Care Guide.  
 - Dewhurst’s Textbook of Obstetrics & Gynaecology  
+
+
+
+**Definition**
+
+**Risk factor**
+
+**Complication**
+
+**Symptoms**
+
+**Sign**
+
+**Investigation**
+
+**Treatment**
+
+**Pathophysiology**
+
+**Classifications**
