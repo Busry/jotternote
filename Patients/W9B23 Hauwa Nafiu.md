@@ -77,3 +77,6 @@ Plan
 	⁃	CT Tabs Aldomet 500mg BD
 - For MTOC to review 
 - Review with result
+
+Urethral catheter 
+Counsel

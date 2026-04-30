@@ -1,6 +1,6 @@
 # CWR summary
 
-A 35y/o P8+0 (7A) LCB 18 months ago and LNMP 27months ago. 
+A 35y/o P9+0 (8A) LCB 18 months ago and LNMP 27months ago. 
 She had Vaginal hysterectomy with pelvic floor repair 3days ago  **o/a** of 3rd degree cystocele and 2nd degree UV-prolapse in a pt that has completed family size, 
 The intraoperative findings are :- 
 - Normal vulval

@@ -64,3 +64,6 @@ Place perineal pad to monitor bleeding
 Strict bed rest
 Bleeding has stopped
 Rheumatologist were invited to comanage with us.
+
+
+Cerclage tomorrow, prednisolone 
