@@ -21,7 +21,11 @@ No cough, drenching night sweats, contact with chronically coughing adult,
 
 difficulty breathing, orthopnea and PND.
 
+following onset of symptom.....
+
 Index pregnancy was unplanned, spontaneously conceived, suspected through her missed period, diagnosed with urine and confirmed with abdominal USS scan at 12 weeks gestation and booked for routine ANC clinic at 12 wks gestation in this facility under team AB with normal booking parameters and investigations. She is regular on her routine haematinics. Her Blood group A+, Genotype is AS
+
+ 
 
 Attained menarche at 15, menstruates for 2-3days in a 28 day cycle, there is hx of dysmenorrhea, No menometrorrhagia, and dyspareunia, She’s aware of contraceptives but has never used, she is not aware of Pap smear And yet to do test .
 
