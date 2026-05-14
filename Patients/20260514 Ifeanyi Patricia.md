@@ -9,10 +9,10 @@ She is on follow-up for recurrent miscarriages and multiple uterine fibroid.
 
 She was admitted 2 days ago via ANC  following an USS done which showed a gestational sac in he left adnexum with fetal pole but no cardiac activity
 
-There is previous history of recurrent abnormal vaginal discharge which were poorly treated
+There is previous history of recurrent abnormal vaginal discharge which were poorly treated.
 
 There is history of spotting per vaginum, but no dizziness, or loss of consciousness or fainting spells. No dyspnoea, orthopnea or PND, 
-No nausea or vomiting, or jaundice.
+No abdominal pain, nausea or vomiting, or jaundice.
 No fever, No frequency, urgency, dysuria or hematuria
 
 Index pregnancy was desired, spontaneously, conceived but yet to book.
