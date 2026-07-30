@@ -13,7 +13,7 @@ with the following intraoperative findings:-
 
 She has commeced feeding and tolerating. she  is also ambulating.
 
-Stable with Post Op PCV = 35%
+Stable with Post Op PCV = 34%
 
 
 
