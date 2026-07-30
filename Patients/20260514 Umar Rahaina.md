@@ -66,3 +66,7 @@ Commenced on ;-
 - IM Dexamethasone 12mg BD x 24hrs
 - Loading dose of Magnesium Sulphate according to Pritchard
 regimen- 14g
+
+
+
+
