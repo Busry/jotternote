@@ -131,5 +131,5 @@ VE: NVV
 ### Bed 
 **Summaiya Nasiru 118533 [see more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa980faf018e9ae05d8a667?ward=)**
 
-## Bed 21
+### Bed 21
 **Ummisalma Aliyu 111293  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa949cb445b9041c5678050?ward=) **
