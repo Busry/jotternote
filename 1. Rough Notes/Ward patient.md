@@ -1,253 +1,135 @@
+## Ward 9
+### Bed 28 
+**Florence Moses  119026**  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a8cc6c585acf056ef82652b?ward=) 
+ A 30 y/o G3P1+1(1A)
+ LMP 21/3/26, EDD 28/12/26, and EGA 25w3d
+ She is a woman with twin gestation
+ Admitted 3wks ago with c/o:
+ - Drainage of fluid PV x 4hour prior to  presentation
+Being managed for Previable PROM
+
+**Still c/o:**
+- Drainage of liquor( small in quantity and not fowl smelling)
+
+**O/E**
+Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
+CVS: PR 100 bpm, BP 110/75 mmHg
+ABD: GMWR, no area of tenderness, SFH 24cm, with multiple fetal poles, no palpable uterine contraction, FHR present.
+VE: NVV
+
+**ASS:** Previable PROM with Discordant twin.
+
+**PLAN:** Do USS, FBC, Ct bed rest, antibiotics, and other managements.
 ## Ward 3
+### Bed 10 
+**Zainab Yunus 122203.  [See more ... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa5a6a077a978b142c46504?ward=)**
+ A 24 y/o Primipara
+ LCB 1 week ago (Preterm delivery at 30wks GA with BW 1.2kg and currently alive)
 
-## Bed 7
-**Hassan abdulrahman.     118939**
-A 31 yo  G4P3+0, 2A, 
-LMP 28/1/26
-EDD 4/10/26
-EGA 28w5d
-She was referred from faith foundation with
-- Head ache
-- epigastric pain 
-- elevated BP of 180/120
-- 
-### Bed 10 ✓
-**CHINAZA UNWULI - 118612**
-A 26 y/o G2p1+0 (1A), 
-LMP-  7/2/26, 
-EDD 14/11/26,  
-EGA 28 weeks 
+**Still c/o:**
+- NFC
 
-Referral from Ola hospital 3days ago with complaints 
-- Body weakness 2/52
-- Inability to walk 10/7
-- Slurred speech 1/52
-Co-managed with the Neurologist for Left hemisphere stroke
+**O/E**
+Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
+CVS: PR 88 bpm, BP 120/60 mmHg
+**RESP.** : RR 20/m, VBS, ↓air entry in the left lung zone., SPO2 98%
+ABD: GMWR, no area of tenderness, Uterus 16wks size.
+VE: NVV and Normal Lochia
 
-Drugs
+**ASS:** Stable.
 
+**PLAN:** Ct managements as outline by int. medicine.
+### Bed 21 
+**Rahila Obadiah 124234** [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a7b271a6c989327e8575175?ward=) 
+ A 23 y/o G2P1+0(NA)
+ ?LMP but USS done at 25w, EGA 25w4d
+ She is a woman with 1 previous c/s o/a ?Recurrent anaemia in preg.
+ Re-admitted 2/7 ago with c/o:
+ - Headache x 3/7
+ - Generalized body weakness
+ - Dizziness x 3/7
+Being Co-managed with the Hematologist for Anaemia in pregnancy 2ndary to combine nutritional anaemia
 
-[EMR](http://192.168.88.237:4500/nursing-stations/admission-activities/6a84d592212f48eccaabd430?ward=POST-NATAL%20II%203)
-[[Chinaza Unwuli|More...]]
+**Still c/o:**
+- NFC
 
-### Bed 24
-**Karen Chidinma  118017**
-A 24yr/old G2 P0+1 
-LMP- 12 November 2025
-EDD- 19/8/26
-EGA- 40weeks 1 day
+**O/E**
+Young woman, pale, icteric, afebrile, not dehydrated, no pedal edema
+CVS: PR 124bpm, BP 90/75 mmHg
+ABD: GMWR, no area of tenderness, SFH 25cm, with SF,LL,CP, FHR 154/m.
+VE: NVV
 
-Admitted from clinic yesterday for IOL o/a PIH at term.
-Nil other complaints 
+**ASS:** Same.
 
-**Ix**
-[✓] Bpp 8/8
-[ x ] CTG
-[ x ]GXM 2unit
+**PLAN:** Transfuse 2 unit of blood, Invite Dietician, reminder to hematologist.
+###  Bed 23
+**Phoebe Ayuba 116706.**  [See more ...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa7cdcecb3f3553d7ab425d?ward=)
+check online urinalysis, MP, FBC.
 
-**Plan**
-For IOL
+A 33 y/o G3P1+0(1A)
+ ?LMP but USS done at 17w EGA 28w2d
+ She is a woman with twin gestation
+ Admitted 3/7 ago with c/o:
+ - Drainage of fluid PV x 2hour prior to  presentation
+Being managed for PPROM remote from term
 
+**Still c/o:**
+- Drainage of liquor( small in quantity and not fowl smelling)
 
-[EMR](http://192.168.88.237:4500/nursing-stations/admission-activities/6a8709cfc1a2e349eaf3ce22?ward=)
-[[Karen Chidinma|More...]]
+**O/E**
+Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, bilateral pitting pedal edema
+CVS: PR 96 bpm, BP 100/70 mmHg
+ABD: GMWR, no area of tenderness, SFH 28cm, SF, LL, CP in LOA, FHR present.
+VE: NVV
 
-### Bed
-**Bilkisu Alhassan 69670**
-A 22 yrs old G5P1+3(1A)
-LMP 19/11/26
-EDD 26/8/26
-EGA 38 weeks 5 days 
+**ASS:** Preterm PROM remote from term.
 
-She is a woman with 1 previous c/section 
-Admitted via LW with 
-- Labour like pain x 1week
-Being managed as false contractile labour.
+**PLAN:** Do USS, FBC, Ct FKC, bed rest, antibiotics, and other managements.
+### Bed 25
+**Oyinye Ozioko    118512**   [See more... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa2fc9e2d7051ddc7748910?ward=)
+ A 38 y/o P4+0(4A)
+ LCB 1wk ago via SVD 
+ Admitted 3wks ago with c/o (referred from Faith Alive):
+ - ↓urine output x 2/7
+ - Generalized body swelling
+Being managed for AKI 2ndary to PPH
 
-Normal CTG
+**Still c/o:**
+- NFC
 
-Plan 
-Close F-M monitoring 
+**O/E**
+Young woman, acute on chronic ill looking, pale, afebrile, anicteric, acyanosed, not dehydrated, with pedal edema up to the knee.
+CVS: PR 116 bpm, BP 156/94 mmHg
+ABD: FMWR, no area of tenderness, uterus 20wks size well contracted, 
+VE: NVV
 
-[EMR](http://192.168.88.237:4500/nursing-stations/admission-activities/6a84e6faea5e09f160710a2a?ward=)
-[[Bilkisu Alhassan|more ...]]
-### Bed 23✓
-**Yusuf Fatima 43331**
-Severe preeclampsia 
-‎A 35yr old G7, P4+2, 4A whose 
-LMP 27/12/26 
-EDD 3/10/27
-‎EGA - 34W 3D today
-‎
-‎She was admitted from ANC clinic on account of 
-- elevated BP of 160/100mmHg
-- proteinuria of 2+. 
-She is a known chronic hypertensive diagnosed 3years ago and not regular on her medications.
+**ASS:** SAME.
 
-She is currently being managed for chronic HTN with superimposed Severe preeclampsia
-‎
+**PLAN:**  Ct hematinic, antihypertensive, antibiotics, and other managements.
+###  bed 26
+**Helen Isah 116773**  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a9ed0125d85c316ce8da832?ward=)
+ A 39 y/o P0+4
+ LCB 3 days ago via vaginal delivery of a macerated male neonate with BW 0.8kg
 
-‎**Plan**
-Repeat Mondays and Thursdays 
-- obstetric uss + 
-- BPP + 
-- UAD today
-Do urinalysis
-Ct ongoing mgt
-On nifedipine and aldomet
+Being managed for Chronic HTN with Superimposed P.E
+with B/g T2DM
+**Still c/o:**
+- NFC
 
-[EMR](http://192.168.88.237:4500/nursing-stations/admission-activities/6a70cd92bac563b1a00503c2?ward=)
-[[Fatima Yusuf|more ...]]
+**O/E**
+Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
+CVS: PR 86 bpm, BP 150/90 mmHg
+RESP.: RR 18cpm, SPO2 98% IRA
+ABD: FMWR, no area of tenderness, uterus 18wks size well contracted.
+VE: NVV
 
-### Bed 
-Basma Mohammed 517126, 
-27 yrs, primi
-PROM at 30 wks
+**ASS:**Same
 
-### Bed 25✓
-**Jamila mohammed 64848**
-Pre eclampsia
-30W 5D
-
-A 30 yr old G3P2+0 (2A), LCB- 7yrs ago.
-LMP was 27/12/25, 
-EDD is 3/10/26 and 
-EGA is 34W 3D today. 
-
-She's a woman with 2 previous CS, 
-Admitted 6/7 from ANC with
-- Elevated BP 170/120mmHg and
-- Proteinuria -2+.
-
-She is currently being managed for
-Chronic hypertension superimposed by PE in a multigravida at 32Wks
-
-**Available investigations (14/8/26)**
-#### FBC
-WBC: 8.45 ×10⁹/L
-Platelets: 351 ×10⁹/L
-Hb: 12.3 g/dL
-RBC: 3.89 ×10¹²/L
-PCV: 34.4%
-MCV: 88.4 fL
-MCH: 32.9 pg
-MCHC: 37.2 g/dL
-MPV: 9.9 fL
-RDW-CV: 12.5%
-RDW-SD: 40.5 fL
-PDW-CV: 0.125 fL
-PDW-SD: 13.5 fL
-PCT: 3.46%
-P-LCC: 98 ×10⁹/L
-P-LCR: 28.0%
-Differential WBC
-Lymphocytes: 15.6%
-MID: 5.3%
-Granulocytes: 79.1%
-Absolute lymphocytes: 1.32 ×10⁹/L
-Absolute MID: 0.45 ×10⁹/L
-Absolute granulocytes: 6.68 ×10⁹/L
-
-#### Clotting profile
-PT: 17 sec
-INR: 1.26
-APTT: 49 sec
-Ratio: 1.36
-
-#### Eucr— 14/08/2026
-Na⁺: 134 mmol/L
-K⁺: 3.9 mmol/L
-Cl⁻: 110 mmol/L
-HCO₃⁻: 22.8 mmol/L
-Urea: 2.6 mmol/L
-Creatinine: 67 µmol/L
-Uric acid: 219 µmol/L
-
-#### LFT
-Total bilirubin: 5.7 µmol/L
-Conjugated bilirubin: 2.7 µmol/L
-ALP: 163 IU/L
-ALT (SGPT): 5.1 IU/L
-AST (SGOT): 9.8 IU/L
-Total protein: 70 g/L
-Albumin: 41 g/L
-
-#### Obstetric Ultrasound + BPP — 16/08/2026
-Presentation: Cephalic
-Placenta: Anterior
-FHR: 156 bpm
-BPD: 7.6 cm
-AC: 26.35 cm
-FL: 6.16 cm
-EFW: 1476 g
-EGA: 30 weeks 4 days
-EDD: 21/10/2026
-#### BPP
-Amniotic fluid: 2 (maximum pool: 2.2 cm)
-Gross body movement: 2
-Fetal tone: 2
-Breathing movement: 2
-Total BPP: 8/8
-
-Conclusion: Live singleton fetus with reassuring BPP.
-
-O/E:
-a middle aged woman, afebrile, not pale, not dehydrated, nil pedal edema
-
-CVS-
-PR- 88bpm
-BP- 140/90 mmHg
-HS- S1S2
-
-Abd:
-Uniformly enlarged, MWR
-Nil area of tenderness,
-SFH- 31cm, SF, LL, CP, LOA position
-FHT present
-
-
-Plan
-Do uss X2 weekly (BPP, UAD)
-Ct antihypertensives
-Tabs Nifecard XL 30mg BD
--Ct labetalol
-Has had dexamethasone 
-
-[[Jamila Mohammed|more ...]]
-[ EMR ](http://192.168.88.237:4500/nursing-stations/admission-activities/6a7ed58d3a9ee580b77438b1?ward=)
-
-### Side room 28✓
-Weng Nyango, 159471, 32 yrs, G3 P0+2 
-Side room 3
-Preeclampsia with severe features
+**PLAN:**  Ct antihypertensives, and other managements.
 
 ## Ward 4
-
-### Bed
-Margaret yohanna 124505 
-Post cs
-
 ### Bed 
-AISHA ABDULLAHI 97862 
-Post cs- failure to progress 2ry malpositional CPD
+**Summaiya Nasiru 118533 [see more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa980faf018e9ae05d8a667?ward=)**
 
-### Bed 
-Hassana Hassan 35371 
-Post cs - persistent fever tachycardia
-
-
-## Ward 9 
 ### Bed 21
-Rahila Obadiah 124234
-Recurrent Anemia
-
-###  Bed 8
-Lois Aku 
-Post TAH + BSO
-
-
-## ICU
-Shamsiya Garba 122210
-Sepsis complicated by septic aki b/g dm and htn
-
-
+**Ummisalma Aliyu 111293  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa949cb445b9041c5678050?ward=) **
