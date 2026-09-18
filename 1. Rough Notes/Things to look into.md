@@ -187,6 +187,41 @@ Cervical ripening step by step
 Centinel bleed(warning bleeds)
 Reaction hyperplacentosis
 
+# 28/04/26
+- Medawa theory of immunology of pregnancy 
+- mechanism of action MgSO4
+- The regiment of eclampsia 
+- 
+# 15/05/26
+- saporo criteria for diagnosis of APS
+- compare and contrast LCG with pantograph (I Support Care 2 Labor Mother Decide)
+	1. id and labor xter
+	2. supportive care
+	3. care of the baby 
+	4. care of the woman
+	5. Labour progress
+	6. medication 
+	7. share decision making 
+- Counsel for contraception 
+	- GATHER
+	- BRACES for tell (Benefits, Risk, Alternatives, C, Explanation, Side effects)
+# 13/7/26
+- How to deliver deeply impacted head
+reverse Debra, partwada, reverse extraction, obstetrics spoon, tydman tube, fetal pillow,
+
+- How to deliver maternal exhaustion in 2nd stage of labour
+
+# 15/7/26
+- Indications for Change blood transfusion in sca patient
+- maximum parity is P3
+
+# 16/7/26
+1. Zainab Huzaifa 38692
+G5P4+0A4 at 41w2d
+A known GDM in labour with fetal macrosomia.
+
+
+
 
 
 
