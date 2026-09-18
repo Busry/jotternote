@@ -106,7 +106,7 @@ VE: NVV
 **ASS:** SAME.
 
 **PLAN:**  Ct hematinic, antihypertensive, antibiotics, and other managements.
-###  bed 26
+###  Bed 26
 **Helen Isah 116773**  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a9ed0125d85c316ce8da832?ward=)
  A 39 y/o P0+4
  LCB 3 days ago via vaginal delivery of a macerated male neonate with BW 0.8kg
@@ -126,6 +126,9 @@ VE: NVV
 **ASS:**Same
 
 **PLAN:**  Ct antihypertensives, and other managements.
+
+### Bed 28
+khadija Abdullahi  110910 [see more](http://192.168.88.237:4500/nursing-stations/admission-activities/6aabf1c31570254b32ab0809?ward=POST-NATAL%20II%203)
 
 ## Ward 4
 ### Bed 
