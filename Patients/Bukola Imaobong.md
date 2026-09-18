@@ -1,6 +1,6 @@
 A 38 year old woman ibibio by tribe who is a Christian,married and a trader that resides and B|Ladi
 
-P3+0(2A) LCB 5yrs and LMP 5/8/26, EDD 12/5/27 and EGA 6w1D
+G4P3+0(2A) LCB 5yrs and LMP 5/8/26, EDD 12/5/27 and EGA 6w1D
 
 She's a known diabetic diagnose 9 years ago at Bingham teaching hospital regular with follow-up on metformin.
 
