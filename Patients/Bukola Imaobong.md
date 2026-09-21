@@ -42,7 +42,7 @@ Plan:
 
 # CWR summary
 
-Mrs Bukola Imaobong a 38 year old
+Mrs. Bukola Imaobong a 38 year old
 
 G4P3+0(2A) LCB 5yrs and 
 LMP 5/8/26, 
