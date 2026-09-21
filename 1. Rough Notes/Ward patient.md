@@ -87,6 +87,8 @@ VE: NVV
 **PLAN:** Do USS, FBC, Ct FKC, bed rest, antibiotics, and other managements.
 ### Bed 25
 **Oyinye Ozioko    118512**   [See more... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa2fc9e2d7051ddc7748910?ward=)
+ patient expelled today in the morning
+ 
  A 38 y/o P4+0(4A)
  LCB 1wk ago via SVD 
  Admitted 3wks ago with c/o (referred from Faith Alive):
