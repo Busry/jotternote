@@ -49,7 +49,7 @@ LMP 5/8/26,
 EDD 12/5/27 and 
 EGA 7w0D today
 
-She's a known diabetic diagnose 9 years ago at Bingham teaching hospital regular with follow-up ( metformin).
+She a woman with 2previous c/section and a known diabetic diagnose 9 years ago at Bingham teaching hospital regular with follow-up ( metformin).
 
 Admitted 7days via ANC when she presented with 
 - fasting blood sugar of 13 mm per liter(RBS 19.5 mmol/L)
