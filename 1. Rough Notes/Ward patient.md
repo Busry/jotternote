@@ -1,6 +1,29 @@
 ## Ward 9
+### Bed 2 
+ **[[Bukola Imaobong]]** 119026  [EMR link ](http://192.168.88.237:4500/nursing-stations/admission-activities/6a8cc6c585acf056ef82652b?ward=) 
+
+ A 38 y/o G4P3+0(2A)
+ LMP 5/8/26, 
+ EDD 12/5/27, and 
+ EGA 6w6d
+ 
+ She is a known T2DM diagonized 9 years ago at BTH and regular with follow-up. 
+ Admitted 6/7 ago via ANC with c/o:
+ - ↑ FBS of 13mm/L (RBS of 19.5mmol/L)
+Being managed as Poor glycaaemic control in a multigravida with T2DM
+
+**Still c/o:**
+- Nil
+
+**O/E**
+Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
+CVS: PR 98 bpm, BP 100/80 mmHg
+ABD: FMWR, no area of tenderness, no palpable organomegally.
+
+**PLAN:** Retrieve ANC Ix.
 ### Bed 28 
-**Florence Moses  119026**  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a8cc6c585acf056ef82652b?ward=) 
+ **[[Florence Moses]]** 119026  [EMR link ](http://192.168.88.237:4500/nursing-stations/admission-activities/6a8cc6c585acf056ef82652b?ward=) 
+
  A 30 y/o G3P1+1(1A)
  LMP 21/3/26, EDD 28/12/26, and EGA 25w3d
  She is a woman with twin gestation
@@ -21,26 +44,9 @@ VE: NVV
 
 **PLAN:** Do USS, FBC, Ct bed rest, antibiotics, and other managements.
 ## Ward 3
-### Bed 10 
-**Zainab Yunus 122203.  [See more ... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa5a6a077a978b142c46504?ward=)**
- A 24 y/o Primipara
- LCB 1 week ago (Preterm delivery at 30wks GA with BW 1.2kg and currently alive)
-
-**Still c/o:**
-- NFC
-
-**O/E**
-Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
-CVS: PR 88 bpm, BP 120/60 mmHg
-**RESP.** : RR 20/m, VBS, ↓air entry in the left lung zone., SPO2 98%
-ABD: GMWR, no area of tenderness, Uterus 16wks size.
-VE: NVV and Normal Lochia
-
-**ASS:** Stable.
-
-**PLAN:** Ct managements as outline by int. medicine.
 ### Bed 21 
-**Rahila Obadiah 124234** [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a7b271a6c989327e8575175?ward=) 
+ **[[Rahila obadiah]]** 124234 [EMR Link...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a7b271a6c989327e8575175?ward=) 
+
  A 23 y/o G2P1+0(NA)
  ?LMP but USS done at 25w, EGA 25w4d
  She is a woman with 1 previous c/s o/a ?Recurrent anaemia in preg.
@@ -62,6 +68,27 @@ VE: NVV
 **ASS:** Same.
 
 **PLAN:** Transfuse 2 unit of blood, Invite Dietician, reminder to hematologist.
+
+
+---
+### Bed 10 
+**Zainab Yunus 122203.  [See more ... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa5a6a077a978b142c46504?ward=)**
+ A 24 y/o Primipara
+ LCB 1 week ago (Preterm delivery at 30wks GA with BW 1.2kg and currently alive)
+
+**Still c/o:**
+- NFC
+
+**O/E**
+Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
+CVS: PR 88 bpm, BP 120/60 mmHg
+**RESP.** : RR 20/m, VBS, ↓air entry in the left lung zone., SPO2 98%
+ABD: GMWR, no area of tenderness, Uterus 16wks size.
+VE: NVV and Normal Lochia
+
+**ASS:** Stable.
+
+**PLAN:** Ct managements as outline by int. medicine.
 ###  Bed 23
 **Phoebe Ayuba 116706.**  [See more ...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa7cdcecb3f3553d7ab425d?ward=)
 check online urinalysis, MP, FBC.
@@ -138,3 +165,6 @@ khadija Abdullahi  110910 [see more](http://192.168.88.237:4500/nursing-stations
 
 ### Bed 21
 **Ummisalma Aliyu 111293  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa949cb445b9041c5678050?ward=) **
+
+
+--- 
