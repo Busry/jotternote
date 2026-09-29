@@ -43,6 +43,12 @@ VE: NVV
 **ASS:** Previable PROM with Discordant twin.
 
 **PLAN:** Do USS, FBC, Ct bed rest, antibiotics, and other managements.
+
+---
+
+---
+
+---
 ## Ward 3
 ### Bed 21 
  **[[Rahila obadiah]]** 124234 [EMR Link...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a7b271a6c989327e8575175?ward=) 
@@ -71,100 +77,31 @@ VE: NVV
 
 
 ---
-### Bed 10 
-**Zainab Yunus 122203.  [See more ... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa5a6a077a978b142c46504?ward=)**
- A 24 y/o Primipara
- LCB 1 week ago (Preterm delivery at 30wks GA with BW 1.2kg and currently alive)
+### Bed 9 
+**Amina Abubakar** 126203.  [See more ... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa5a6a077a978b142c46504?ward=)
 
-**Still c/o:**
-- NFC
+A 35yr old G8P3+4 (3A) 
+LMP 9/3/26, 
+EDD 16/12/26 
+EGA - 29W1D 
 
-**O/E**
-Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
-CVS: PR 88 bpm, BP 120/60 mmHg
-**RESP.** : RR 20/m, VBS, ↓air entry in the left lung zone., SPO2 98%
-ABD: GMWR, no area of tenderness, Uterus 16wks size.
-VE: NVV and Normal Lochia
+Admitted 7/7 ago with complaint
+- Recurrent vomiting x 7/12
+- Progressive body weakness x  2/12
+- Recurrent fever x 1/12
+She is being co-managed with the medical team  for 
+- Anaemia in pregnancy with Dyselectrolytaemia secondary to HEG
 
-**ASS:** Stable.
+She has had 2 unit of blood transfused following PCV of 21%, last transfused 3 days ago with post transfusion PCV of ------
+Also on  serum electrolytes correction, Yet to retrieve serum EUCr result following correction. (requested yesterday), last episode of convulsion was 6/7 ago and anticonvulsant discontinued.
 
-**PLAN:** Ct managements as outline by int. medicine.
-###  Bed 23
-**Phoebe Ayuba 116706.**  [See more ...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa7cdcecb3f3553d7ab425d?ward=)
-check online urinalysis, MP, FBC.
+Obstetrics USS done (on 27/9/26) revealed a Late 2nd trimester  Cyesis @25W 1D
 
-A 33 y/o G3P1+0(1A)
- ?LMP but USS done at 17w EGA 28w2d
- She is a woman with twin gestation
- Admitted 3/7 ago with c/o:
- - Drainage of fluid PV x 2hour prior to  presentation
-Being managed for PPROM remote from term
+she currently have no new complaint
+Patient condition is stable
 
-**Still c/o:**
-- Drainage of liquor( small in quantity and not fowl smelling)
-
-**O/E**
-Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, bilateral pitting pedal edema
-CVS: PR 96 bpm, BP 100/70 mmHg
-ABD: GMWR, no area of tenderness, SFH 28cm, SF, LL, CP in LOA, FHR present.
-VE: NVV
-
-**ASS:** Preterm PROM remote from term.
-
-**PLAN:** Do USS, FBC, Ct FKC, bed rest, antibiotics, and other managements.
-### Bed 25
-**Oyinye Ozioko    118512**   [See more... ](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa2fc9e2d7051ddc7748910?ward=)
- patient expelled today in the morning
- 
- A 38 y/o P4+0(4A)
- LCB 1wk ago via SVD 
- Admitted 3wks ago with c/o (referred from Faith Alive):
- - ↓urine output x 2/7
- - Generalized body swelling
-Being managed for AKI 2ndary to PPH
-
-**Still c/o:**
-- NFC
-
-**O/E**
-Young woman, acute on chronic ill looking, pale, afebrile, anicteric, acyanosed, not dehydrated, with pedal edema up to the knee.
-CVS: PR 116 bpm, BP 156/94 mmHg
-ABD: FMWR, no area of tenderness, uterus 20wks size well contracted, 
-VE: NVV
-
-**ASS:** SAME.
-
-**PLAN:**  Ct hematinic, antihypertensive, antibiotics, and other managements.
-###  Bed 26
-**Helen Isah 116773**  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a9ed0125d85c316ce8da832?ward=)
- A 39 y/o P0+4
- LCB 3 days ago via vaginal delivery of a macerated male neonate with BW 0.8kg
-
-Being managed for Chronic HTN with Superimposed P.E
-with B/g T2DM
-**Still c/o:**
-- NFC
-
-**O/E**
-Young woman, afebrile, not pale, anicteric, acyanosed, not dehydrated, no pedal edema
-CVS: PR 86 bpm, BP 150/90 mmHg
-RESP.: RR 18cpm, SPO2 98% IRA
-ABD: FMWR, no area of tenderness, uterus 18wks size well contracted.
-VE: NVV
-
-**ASS:**Same
-
-**PLAN:**  Ct antihypertensives, and other managements.
-
-### Bed 28
-khadija Abdullahi  110910 [see more](http://192.168.88.237:4500/nursing-stations/admission-activities/6aabf1c31570254b32ab0809?ward=POST-NATAL%20II%203)
-
+---
 ## Ward 4
-### Bed 
-**Summaiya Nasiru 118533 [see more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa980faf018e9ae05d8a667?ward=)**
-
-### Bed 21
-**Ummisalma Aliyu 111293  [See more...](http://192.168.88.237:4500/nursing-stations/admission-activities/6aa949cb445b9041c5678050?ward=) **
-
 
 --- 
+
