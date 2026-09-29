@@ -52,28 +52,20 @@ VE: NVV
 ## Ward 3
 ### Bed 21 
  **[[Rahila obadiah]]** 124234 [EMR Link...](http://192.168.88.237:4500/nursing-stations/admission-activities/6a7b271a6c989327e8575175?ward=) 
-
- A 23 y/o G2P1+0(NA)
- ?LMP but USS done at 25w, EGA 25w4d
- She is a woman with 1 previous c/s o/a ?Recurrent anaemia in preg.
- Re-admitted 2/7 ago with c/o:
- - Headache x 3/7
- - Generalized body weakness
- - Dizziness x 3/7
-Being Co-managed with the Hematologist for Anaemia in pregnancy 2ndary to combine nutritional anaemia
-
-**Still c/o:**
-- NFC
-
-**O/E**
-Young woman, pale, icteric, afebrile, not dehydrated, no pedal edema
-CVS: PR 124bpm, BP 90/75 mmHg
-ABD: GMWR, no area of tenderness, SFH 25cm, with SF,LL,CP, FHR 154/m.
-VE: NVV
-
-**ASS:** Same.
-
-**PLAN:** Transfuse 2 unit of blood, Invite Dietician, reminder to hematologist.
+‎A 23 year old G2P1+0 NA EGA 30W6D today with 1previous CS 2 years ago for ?? anaemia in pregnancy at 28weeks
+‎
+‎She is a known patient of the unit who was readmitted 16/7 days ago with complaints of headache and dizziness of 3days duration 
+‎She is being co-managed with the haematology team for Anaemia in pregnancy 2° combined nutritional anemia? cause 
+‎Available investigations are urgent PCV at presentation 15%, Mp, FBC, LFT, E/U/CR:  normal.
+‎FOB negative, yet to do vitamin assay.
+‎
+‎She was  transfused with 3units of sedimented blood with the post transfusion PCV of 31 % a repeat PCV after 8/7 is 27%
+‎ 
+‎ currently on F/A, Fersolate 200mg tds and tabs prednisolone 
+‎
+‎ she is currently stable 
+‎PR
+‎BP
 
 
 ---
